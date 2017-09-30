@@ -6,7 +6,7 @@ with mutable data structures and concurrency.
 
 This repository was created for my book,
 [Learning Functional Programming in 
-Scala](https://alvinalexander.com/scala/learning-functional-programming-in-scala-book)
+Scala](https://alvinalexander.com/scala/learning-functional-programming-in-scala-book).
 
 
 Alvin Alexander    
